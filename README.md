@@ -1,3 +1,3 @@
 # C++ Practice
 
-My C++ practice repository. No features here.
+My C++ practice monorepo. No features here.

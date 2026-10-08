@@ -8,11 +8,12 @@ double square(double x)
 
 void print_square(double x)
 {
-    cout << "the square of " << x << " is " << square(x) << "\n";
+    cout << "The square of " << x << " is " << square(x) << "\n";
 }
 
 int main()
 {
     cout << "Hello, World!\n";
     print_square(1.234);
+    return 0;
 }

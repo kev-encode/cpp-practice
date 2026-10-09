@@ -7,6 +7,7 @@ int main()
 {
     double d1 = 2.2;
     double d2 {2.3};
+    auto b = true;
 
     complex<double> z1(3.0, 4.0);
     complex<double> z2(d1, d2);
